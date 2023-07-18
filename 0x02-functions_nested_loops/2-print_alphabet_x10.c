@@ -4,7 +4,7 @@
 */
 void print_alphabet_x10(void)
 {
-	char letters; 
+	char letters;
 	int i;
 
 	i = 0;
