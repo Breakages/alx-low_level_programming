@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/*
+** Function: int main(void)
+** ------------------------
+** The main entry point of the program.
+** Return: Exits Program
+*/
+
 int main(void)
 {
 int n;
